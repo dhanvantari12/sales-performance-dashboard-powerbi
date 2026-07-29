@@ -77,4 +77,12 @@ The dashboard uses a retail sales dataset containing:
 
 ## 👩‍💻 Author
 
-Dhanvantari
+Dhanvantari Dayanand Akolkar
+
+Aspiring Data Analyst | Power BI | Excel | SQL | Python
+
+📧 Email: dhanvantariakolkar@gmail.com
+
+🔗 GitHub: https://github.com/dhanvantari12
+
+🔗 LinkedIn: www.linkedin.com/in/dhanvantari-akolkar
