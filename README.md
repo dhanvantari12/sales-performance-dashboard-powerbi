@@ -33,11 +33,11 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 
 ### Sales Overview
 
-![Overview](Assets/Overview.png)
+![Overview](Overview.png)
 
 ### Detailed Analysis
 
-![Detailed Analysis](Assets/DetailedAnalysis.png)
+![Detailed Analysis](DetailedAnalysis.png)
 
 ---
 
